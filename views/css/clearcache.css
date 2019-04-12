@@ -1,0 +1,11 @@
+.bootstrap #header_infos #creaclearcache-top-notification {
+    margin-left: .3125rem;
+}
+
+.bootstrap #header_infos .creaclearcache-top-notification {
+    display: flex;
+    height: 2.5rem;
+    min-width: 2.5rem;
+    line-height: 2.5rem;
+    align-items: center;
+}
